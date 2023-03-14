@@ -1,0 +1,15 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+}
+.navbar
+{
+display: flex;
+justify-content: space-between;
+align-items: center;
+width: 80%;
+height: 100%;
+}

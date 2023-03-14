@@ -1,0 +1,36 @@
+.content
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 50%;
+    height:15vh; 
+}
+.contentimg
+{   
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 50%;
+}
+.contentheading
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 50%;
+}
+.title
+{
+    background-image: url(https://st4.depositphotos.com/16372618/20140/i/600/depositphotos_201403170-stock-photo-professional-investor-financial-meeting-present.jpg);
+    width: 100%;
+    height:50%;
+}
+.img
+{
+    width: 75px;
+    height: 75px;
+}
